@@ -6,3 +6,4 @@ int main() {
 }
 //Modifier sur la branche test
 //correction du bug 001
+//Correction du bug 002
